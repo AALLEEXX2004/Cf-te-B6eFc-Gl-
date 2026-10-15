@@ -1,12 +1,1 @@
-ALP-ENDPOINT-1
-product=ApplicationRelayB
-protocol=1
-sequence=1
-ip=184.148.168.154
-relay_port=9443
-file_port=9446
-heartbeat_port=9445
-host=
-changed_at=2026-10-15T02:35:03Z
-cert_sha256=0a6dd701772e436b0f289363af5ae9c977ad6905c95207e84d0dd46adbed7eb1
-signature=eb9a46c616ea0fe6bb551fcd0be06f5e6753f9c429543321c12629f7aaf8536ae0388c055b729762e6fe4db138638316932ab9665b525ab8ce366c5b951bcade
+184.148.168.154
